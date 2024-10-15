@@ -3,7 +3,7 @@
     
 }
 
-body{
+body, .contenedor, .contenedor-form{
     background-color: #d8f3dc;
 }
 
@@ -21,7 +21,6 @@ nav{
     align-items: center;
     height: 100%;
     width: 100%;
-    background-color: #d8f3dc;
 }
 
 #img-inicio{
@@ -32,7 +31,6 @@ nav{
 .contenedor{
     height: 100%;
     width: 100%;
-    background-color: #d8f3dc;
 }
 
 form{
@@ -47,6 +45,7 @@ form{
 
 footer{
     background-color: #212529;
+    padding: 10px;
     
 }
 
